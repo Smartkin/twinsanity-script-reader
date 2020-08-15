@@ -1,0 +1,601 @@
+{
+	id: 0x0001,
+	mask: 0x01,
+	flag: 0x00,
+	Name_length: 0x0000000e,
+	Name: "COM_CRASH_IDLE",
+	unkInt1: 0x00000007,
+	unkInt2: 0x00000000,
+	Main_Script: 
+	{
+		LinkedScript: 
+		{
+			bitfield: 0xffff8842,
+			support1: "NULL",
+			support2: 
+			{
+				bitfield: 0x00000e02,
+				LinkedScript: 
+				{
+					bitfield: 0xffffc421,
+					support1: 
+					{
+						unkByte1: 0x10,
+						unkByte2: 0x02,
+						unkUShort1: 0x0006,
+						unkInt1: 0x00200000,
+						unkByteArray: "0x000404000ffffff8040ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0ffffffffffffffffffffffffffffffff1",
+					}
+					LinkedScript: 
+					{
+						bitfield: 0xffff8863,
+						support1: "NULL",
+						LinkedScript: 
+						{
+							bitfield: 0xffff8821,
+							support1: "NULL",
+							LinkedScript: 
+							{
+								bitfield: 0xffff8421,
+								support1: "NULL",
+								LinkedScript: 
+								{
+									bitfield: 0xffffc421,
+									support1: 
+									{
+										unkByte1: 0x0b,
+										unkByte2: 0x01,
+										unkUShort1: 0x0006,
+										unkInt1: 0x00200000,
+										unkByteArray: "0x3333ffffffb33fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0",
+									}
+									LinkedScript: 
+									{
+										bitfield: 0xffff4000,
+										support1: 
+										{
+											unkByte1: 0x00,
+											unkByte2: 0x00,
+											unkUShort1: 0x0006,
+											unkInt1: 0x80200000,
+											unkByteArray: "0x",
+										}
+										LinkedScript: "NULL",
+									}
+								}
+							}
+						}
+					}
+				}
+				support3: 
+				{
+					unkInt: 0x00000002,
+					unkVTableInELF: 0x00000000,
+					unkBytes1: "0x00000",
+					unkBytes2: "0xffffffcdffffffcc4c3e",
+					unkBytes3: "0x000ffffffa040",
+				}
+				support4: 
+				{
+					Internal_index: 0x01000009,
+					size: 0x00000024,
+					unkByteArray: "0xfffffff13f00ffffffccffffffcc4c3e4000400000008ffffffffffffffffffffffff",
+					support4: 
+					{
+						Internal_index: 0x0000008b,
+						size: 0x00000010,
+						unkByteArray: "0xffffffcdffffffcc4c3e",
+						support4: "NULL",
+						unkUInt: 0x00000000,
+					}
+					unkUInt: 0x01000000,
+				}
+				support2: 
+				{
+					bitfield: 0x00000603,
+					LinkedScript: 
+					{
+						bitfield: 0xffffc421,
+						support1: 
+						{
+							unkByte1: 0x0b,
+							unkByte2: 0x01,
+							unkUShort1: 0x0006,
+							unkInt1: 0x00200000,
+							unkByteArray: "0x3333ffffffb33fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0",
+						}
+						LinkedScript: 
+						{
+							bitfield: 0xffff4000,
+							support1: 
+							{
+								unkByte1: 0x00,
+								unkByte2: 0x00,
+								unkUShort1: 0x0006,
+								unkInt1: 0x80200000,
+								unkByteArray: "0x",
+							}
+							LinkedScript: "NULL",
+						}
+					}
+					support3: 
+					{
+						unkInt: 0x00000242,
+						unkVTableInELF: 0x00000000,
+						unkBytes1: "0x00000",
+						unkBytes2: "0x00003f",
+						unkBytes3: "0x000040",
+					}
+					support4: 
+					{
+						Internal_index: 0x01000009,
+						size: 0x00000024,
+						unkByteArray: "0xfffffff13f00ffffffccffffffcc4c3e40004000000034ffffffffffffffffffffffff",
+						support4: 
+						{
+							Internal_index: 0x01000075,
+							size: 0x00000014,
+							unkByteArray: "0x0002041ffffffcdffffffccffffffcc3d",
+							support4: 
+							{
+								Internal_index: 0x0000008b,
+								size: 0x00000010,
+								unkByteArray: "0xffffffcdffffffcc4c3e",
+								support4: "NULL",
+								unkUInt: 0x00000000,
+							}
+							unkUInt: 0x01000000,
+						}
+						unkUInt: 0x01000000,
+					}
+					support2: "NULL",
+				}
+			}
+			LinkedScript: 
+			{
+				bitfield: 0xffffc421,
+				support1: 
+				{
+					unkByte1: 0x10,
+					unkByte2: 0x02,
+					unkUShort1: 0x0006,
+					unkInt1: 0x00200000,
+					unkByteArray: "0x000404000ffffff8040ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0ffffffffffffffffffffffffffffffff1",
+				}
+				support2: 
+				{
+					bitfield: 0x00000601,
+					LinkedScript: 
+					{
+						bitfield: 0xffff8863,
+						support1: "NULL",
+						LinkedScript: 
+						{
+							bitfield: 0xffff8821,
+							support1: "NULL",
+							LinkedScript: 
+							{
+								bitfield: 0xffff8421,
+								support1: "NULL",
+								LinkedScript: 
+								{
+									bitfield: 0xffffc421,
+									support1: 
+									{
+										unkByte1: 0x0b,
+										unkByte2: 0x01,
+										unkUShort1: 0x0006,
+										unkInt1: 0x00200000,
+										unkByteArray: "0x3333ffffffb33fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0",
+									}
+									LinkedScript: 
+									{
+										bitfield: 0xffff4000,
+										support1: 
+										{
+											unkByte1: 0x00,
+											unkByte2: 0x00,
+											unkUShort1: 0x0006,
+											unkInt1: 0x80200000,
+											unkByteArray: "0x",
+										}
+										LinkedScript: "NULL",
+									}
+								}
+							}
+						}
+					}
+					support3: 
+					{
+						unkInt: 0x00000000,
+						unkVTableInELF: 0x00000000,
+						unkBytes1: "0x00000",
+						unkBytes2: "0x00003f",
+						unkBytes3: "0x000040",
+					}
+					support4: 
+					{
+						Internal_index: 0x00000072,
+						size: 0x0000000c,
+						unkByteArray: "NULL",
+						support4: "NULL",
+						unkUInt: 0x00000000,
+					}
+					support2: "NULL",
+				}
+				LinkedScript: 
+				{
+					bitfield: 0xffff8863,
+					support1: "NULL",
+					support2: 
+					{
+						bitfield: 0x00000e01,
+						LinkedScript: 
+						{
+							bitfield: 0xffff8821,
+							support1: "NULL",
+							LinkedScript: 
+							{
+								bitfield: 0xffff8421,
+								support1: "NULL",
+								LinkedScript: 
+								{
+									bitfield: 0xffffc421,
+									support1: 
+									{
+										unkByte1: 0x0b,
+										unkByte2: 0x01,
+										unkUShort1: 0x0006,
+										unkInt1: 0x00200000,
+										unkByteArray: "0x3333ffffffb33fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0",
+									}
+									LinkedScript: 
+									{
+										bitfield: 0xffff4000,
+										support1: 
+										{
+											unkByte1: 0x00,
+											unkByte2: 0x00,
+											unkUShort1: 0x0006,
+											unkInt1: 0x80200000,
+											unkByteArray: "0x",
+										}
+										LinkedScript: "NULL",
+									}
+								}
+							}
+						}
+						support3: 
+						{
+							unkInt: 0x00010003,
+							unkVTableInELF: 0x00000000,
+							unkBytes1: "0x00000",
+							unkBytes2: "0xffffff9affffff99ffffff993e",
+							unkBytes3: "0x55555540",
+						}
+						support4: 
+						{
+							Internal_index: 0x00000009,
+							size: 0x00000024,
+							unkByteArray: "0xfffffff32f00ffffffccffffffcc4c3e4000400000005e5f60ffffffff",
+							support4: "NULL",
+							unkUInt: 0x00000000,
+						}
+						support2: 
+						{
+							bitfield: 0x00000e01,
+							LinkedScript: 
+							{
+								bitfield: 0xffff8821,
+								support1: "NULL",
+								LinkedScript: 
+								{
+									bitfield: 0xffff8421,
+									support1: "NULL",
+									LinkedScript: 
+									{
+										bitfield: 0xffffc421,
+										support1: 
+										{
+											unkByte1: 0x0b,
+											unkByte2: 0x01,
+											unkUShort1: 0x0006,
+											unkInt1: 0x00200000,
+											unkByteArray: "0x3333ffffffb33fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0",
+										}
+										LinkedScript: 
+										{
+											bitfield: 0xffff4000,
+											support1: 
+											{
+												unkByte1: 0x00,
+												unkByte2: 0x00,
+												unkUShort1: 0x0006,
+												unkInt1: 0x80200000,
+												unkByteArray: "0x",
+											}
+											LinkedScript: "NULL",
+										}
+									}
+								}
+							}
+							support3: 
+							{
+								unkInt: 0x00000002,
+								unkVTableInELF: 0x00000000,
+								unkBytes1: "0x00000",
+								unkBytes2: "0x00003f",
+								unkBytes3: "0x000040",
+							}
+							support4: 
+							{
+								Internal_index: 0x00000009,
+								size: 0x00000024,
+								unkByteArray: "0xfffffff42f00ffffffccffffffcc4c3e40004000000064656667",
+								support4: "NULL",
+								unkUInt: 0x00000000,
+							}
+							support2: 
+							{
+								bitfield: 0x00000601,
+								LinkedScript: 
+								{
+									bitfield: 0xffff8821,
+									support1: "NULL",
+									LinkedScript: 
+									{
+										bitfield: 0xffff8421,
+										support1: "NULL",
+										LinkedScript: 
+										{
+											bitfield: 0xffffc421,
+											support1: 
+											{
+												unkByte1: 0x0b,
+												unkByte2: 0x01,
+												unkUShort1: 0x0006,
+												unkInt1: 0x00200000,
+												unkByteArray: "0x3333ffffffb33fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0",
+											}
+											LinkedScript: 
+											{
+												bitfield: 0xffff4000,
+												support1: 
+												{
+													unkByte1: 0x00,
+													unkByte2: 0x00,
+													unkUShort1: 0x0006,
+													unkInt1: 0x80200000,
+													unkByteArray: "0x",
+												}
+												LinkedScript: "NULL",
+											}
+										}
+									}
+								}
+								support3: 
+								{
+									unkInt: 0x00010003,
+									unkVTableInELF: 0x00000000,
+									unkBytes1: "0x00000",
+									unkBytes2: "0xffffff9affffff99193f",
+									unkBytes3: "0x5555ffffffd53f",
+								}
+								support4: 
+								{
+									Internal_index: 0x00000009,
+									size: 0x00000024,
+									unkByteArray: "0xfffffff32f00ffffffccffffffcc4c3e400040000000616263ffffffff",
+									support4: "NULL",
+									unkUInt: 0x00000000,
+								}
+								support2: "NULL",
+							}
+						}
+					}
+					LinkedScript: 
+					{
+						bitfield: 0xffff8821,
+						support1: "NULL",
+						support2: 
+						{
+							bitfield: 0x00000602,
+							LinkedScript: 
+							{
+								bitfield: 0xffff8421,
+								support1: "NULL",
+								LinkedScript: 
+								{
+									bitfield: 0xffffc421,
+									support1: 
+									{
+										unkByte1: 0x0b,
+										unkByte2: 0x01,
+										unkUShort1: 0x0006,
+										unkInt1: 0x00200000,
+										unkByteArray: "0x3333ffffffb33fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0",
+									}
+									LinkedScript: 
+									{
+										bitfield: 0xffff4000,
+										support1: 
+										{
+											unkByte1: 0x00,
+											unkByte2: 0x00,
+											unkUShort1: 0x0006,
+											unkInt1: 0x80200000,
+											unkByteArray: "0x",
+										}
+										LinkedScript: "NULL",
+									}
+								}
+							}
+							support3: 
+							{
+								unkInt: 0x0001003a,
+								unkVTableInELF: 0x00000000,
+								unkBytes1: "0x00000",
+								unkBytes2: "0xffffffcdffffffcc4c3e",
+								unkBytes3: "0x000ffffffa040",
+							}
+							support4: 
+							{
+								Internal_index: 0x01000075,
+								size: 0x00000014,
+								unkByteArray: "0x0002041ffffff9affffff99193e",
+								support4: 
+								{
+									Internal_index: 0x00000073,
+									size: 0x0000000c,
+									unkByteArray: "NULL",
+									support4: "NULL",
+									unkUInt: 0x00000000,
+								}
+								unkUInt: 0x01000000,
+							}
+							support2: "NULL",
+						}
+						LinkedScript: 
+						{
+							bitfield: 0xffff8421,
+							support1: "NULL",
+							support2: 
+							{
+								bitfield: 0x00000601,
+								LinkedScript: 
+								{
+									bitfield: 0xffffc421,
+									support1: 
+									{
+										unkByte1: 0x10,
+										unkByte2: 0x02,
+										unkUShort1: 0x0006,
+										unkInt1: 0x00200000,
+										unkByteArray: "0x000404000ffffff8040ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0ffffffffffffffffffffffffffffffff1",
+									}
+									LinkedScript: 
+									{
+										bitfield: 0xffff8863,
+										support1: "NULL",
+										LinkedScript: 
+										{
+											bitfield: 0xffff8821,
+											support1: "NULL",
+											LinkedScript: 
+											{
+												bitfield: 0xffff8421,
+												support1: "NULL",
+												LinkedScript: 
+												{
+													bitfield: 0xffffc421,
+													support1: 
+													{
+														unkByte1: 0x0b,
+														unkByte2: 0x01,
+														unkUShort1: 0x0006,
+														unkInt1: 0x00200000,
+														unkByteArray: "0x3333ffffffb33fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0",
+													}
+													LinkedScript: 
+													{
+														bitfield: 0xffff4000,
+														support1: 
+														{
+															unkByte1: 0x00,
+															unkByte2: 0x00,
+															unkUShort1: 0x0006,
+															unkInt1: 0x80200000,
+															unkByteArray: "0x",
+														}
+														LinkedScript: "NULL",
+													}
+												}
+											}
+										}
+									}
+								}
+								support3: 
+								{
+									unkInt: 0x00000000,
+									unkVTableInELF: 0x00000000,
+									unkBytes1: "0x00000",
+									unkBytes2: "0x00003f",
+									unkBytes3: "0x000040",
+								}
+								support4: 
+								{
+									Internal_index: 0x00000009,
+									size: 0x00000024,
+									unkByteArray: "0xfffffff13f00ffffffccffffffcc4c3e4000400000008ffffffffffffffffffffffff",
+									support4: "NULL",
+									unkUInt: 0x00000000,
+								}
+								support2: "NULL",
+							}
+							LinkedScript: 
+							{
+								bitfield: 0xffffc421,
+								support1: 
+								{
+									unkByte1: 0x0b,
+									unkByte2: 0x01,
+									unkUShort1: 0x0006,
+									unkInt1: 0x00200000,
+									unkByteArray: "0x3333ffffffb33fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0",
+								}
+								support2: 
+								{
+									bitfield: 0x00000601,
+									LinkedScript: 
+									{
+										bitfield: 0xffff4000,
+										support1: 
+										{
+											unkByte1: 0x00,
+											unkByte2: 0x00,
+											unkUShort1: 0x0006,
+											unkInt1: 0x80200000,
+											unkByteArray: "0x",
+										}
+										LinkedScript: "NULL",
+									}
+									support3: 
+									{
+										unkInt: 0x00000000,
+										unkVTableInELF: 0x00000000,
+										unkBytes1: "0x00000",
+										unkBytes2: "0x00003f",
+										unkBytes3: "0x000040",
+									}
+									support4: 
+									{
+										Internal_index: 0x00000009,
+										size: 0x00000024,
+										unkByteArray: "0xfffffff13f00ffffffccffffffcc4c3e40004000000035ffffffffffffffffffffffff",
+										support4: "NULL",
+										unkUInt: 0x00000000,
+									}
+									support2: "NULL",
+								}
+								LinkedScript: 
+								{
+									bitfield: 0xffff4000,
+									support1: 
+									{
+										unkByte1: 0x00,
+										unkByte2: 0x00,
+										unkUShort1: 0x0006,
+										unkInt1: 0x80200000,
+										unkByteArray: "0x",
+									}
+									support2: "NULL",
+									LinkedScript: "NULL",
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

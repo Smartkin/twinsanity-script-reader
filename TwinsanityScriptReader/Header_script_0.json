@@ -1,0 +1,13 @@
+{
+	id: 0x0000,
+	mask: 0x32,
+	flag: 0x01,
+	Name_length: 0x0000000e,
+	Name: "Header script",
+	unkIntPairsAmt: 0x00000001,
+	Pair: 
+	{
+		unkInt1: 0x00000002,
+		unkInt2: 0xffff5230,
+	}
+}
